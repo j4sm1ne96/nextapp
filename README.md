@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+For a deployed version see: https://nextapp-plum-rho.vercel.app/
+
+<img width="1438" alt="Screenshot 2024-02-16 at 10 13 52" src="https://github.com/j4sm1ne96/nextapp/assets/83115753/b467c92f-638c-4f37-acb4-94508b435f31">
+
+
 ## Getting Started
 
 First, run the development server:
